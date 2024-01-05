@@ -1,0 +1,3 @@
+[submodule "Developers-Hub/client"]
+	path = Developers-Hub/client
+	url = https://github.com/bharathbattipally/Developers-Hub.git
